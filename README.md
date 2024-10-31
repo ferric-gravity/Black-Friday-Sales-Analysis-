@@ -11,7 +11,7 @@ Getting Started
 To replicate the analysis in this repository:
 
 Clone this repository to your local machine.
-Command: git clone https://github.com//Black-Friday-Sales-Analysis.git](https://github.com/god-killer223/Black-Friday-Sales-Analysis-.git and then cd Black-Friday-Sales-Analysis
+Command: git clone https://github.com/god-killer223/Black-Friday-Sales-Analysis-.git and then cd Black-Friday-Sales-Analysis
 Make sure you have the required Python packages installed. You can install them using:
 Command: pip install -r requirements.txt
 Open the Jupyter notebook and run the cells to reproduce the analysis:
