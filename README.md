@@ -1,14 +1,14 @@
-Black Friday Sales Analysis
+# Black Friday Sales Analysis
 
 This repository contains an analysis of Black Friday sales data, aimed at uncovering customer buying patterns, popular product categories, and insights into demographic impacts on purchasing behavior.
 
-Files
+## Files
 
 "Black Friday Sales Analysis.ipynb": This Jupyter notebook contains the code and analysis for the Black Friday sales dataset. It includes data exploration, visualization, and insights derived from the data.
 "BlackFriday.csv": This is the raw dataset containing customer transactions for Black Friday. The data includes customer demographics, product categories, and purchase details.
 Getting Started
 
-To replicate the analysis in this repository:
+## To replicate the analysis in this repository:
 
 Clone this repository to your local machine.
 Command: git clone https://github.com/god-killer223/Black-Friday-Sales-Analysis-.git and then cd Black-Friday-Sales-Analysis
@@ -18,7 +18,7 @@ Open the Jupyter notebook and run the cells to reproduce the analysis:
 Command: jupyter notebook "Black Friday Sales Analysis.ipynb"
 Dataset Overview
 
-The "BlackFriday.csv" file contains columns such as:
+## The "BlackFriday.csv" file contains columns such as:
 
 User_ID: A unique identifier for each user
 Product_ID: A unique identifier for each product
@@ -32,7 +32,7 @@ Product_Category_1, 2, 3: The categories of products purchased
 Purchase: The purchase amount
 Analysis Insights
 
-The analysis covers several aspects of Black Friday sales data:
+## The analysis covers several aspects of Black Friday sales data:
 
 Customer demographics and spending patterns
 Popular product categories and their relation to age and gender
@@ -41,6 +41,6 @@ License
 
 This project is open-source and available for public use. You’re welcome to explore, modify, and expand upon this work.
 
-Acknowledgments
+## Acknowledgments
 
 This dataset and analysis are intended for educational purposes and exploring data science techniques in customer analysis.
